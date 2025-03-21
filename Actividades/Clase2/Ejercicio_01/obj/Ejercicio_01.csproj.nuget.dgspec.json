@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj": {}
+    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj": {
+    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj",
+        "projectUniqueName": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj",
         "projectName": "Ejercicio_01",
-        "projectPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj",
+        "projectPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Ejercicio_01.csproj",
         "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\obj\\",
+        "outputPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joaquin\\AppData\\Roaming\\NuGet\\NuGet.Config",

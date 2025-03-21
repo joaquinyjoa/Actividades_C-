@@ -11,11 +11,12 @@ namespace Ejercicio_01
     {
         public static bool Validar(int valor, int min, int max)
         {
-            bool validado = true;
-            if (valor <= max && valor >= min)
+            bool validado = false;
+            if (valor < max || valor > min)
             {
-                validado = false;
+                validado = true;
             }
+
             return validado;
         }
     }

@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\",
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades\\clase2\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A78A046-B6E4-4A27-B6C5-B5B437350A66}|..\\Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase2\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F160903A-63EE-4A03-9DEE-5FABD0432414}|..\\Ejercicio_04\\Ejercicio_04.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase2\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9017A99-A7EB-4A5A-AF6C-EFF97EA0784F}|..\\Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase2\\ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9017A99-A7EB-4A5A-AF6C-EFF97EA0784F}|..\\Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase2\\ejercicio_02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase2\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades\\clase2\\ejercicio_01\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C1FF6CE-0FB3-4A2E-9BC9-58D26CFBDD2E}|Ejercicio_01.csproj|solutionrelative:validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,25 +35,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Validador.cs",
-              "RelativeDocumentMoniker": "Validador.cs",
-              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Validador.cs",
-              "RelativeToolTip": "Validador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_04\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_04\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T17:04:54.014Z",
+              "WhenOpened": "2025-03-21T17:04:23.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_03\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_03\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_03\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:30:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_02\\Calculadora.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_02\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_02\\Calculadora.cs",
+              "RelativeToolTip": "..\\Ejercicio_02\\Calculadora.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:16:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_02\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_02\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:15:22.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validador.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Validador.cs",
+              "RelativeDocumentMoniker": "Validador.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Validador.cs",
+              "RelativeToolTip": "Validador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:04:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Clase2\\Ejercicio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase2\\Ejercicio_01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowBoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T17:03:05.051Z",
               "EditorCaption": ""

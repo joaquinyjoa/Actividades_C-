@@ -8,8 +8,10 @@ internal class Program
         Console.Title = "Ejercicio Nro 1";
 
         int numero;
-        int minimo = -100;
-        int maximo = 100;
+        int valorMinimo = -100;
+        int valorMaximo = 100;
+        int maximo = 0;
+        int minimo = 0;
         bool validar;
         int suma = 0;
         double promedio;
@@ -23,15 +25,26 @@ internal class Program
                 Console.Write("Error. Ingrese un numero: ");
             }
 
-            validar = Validador.Validar(numero, minimo, maximo);
+            validar = Validador.Validar(numero, valorMinimo, valorMaximo);
 
             if (validar == false)
             {
-                suma -= numero;
                 i--;
+                Console.WriteLine("Ingrese un numero entre -100 y 100");
             }
+            else
+            {
+                if (numero > maximo)
+                {
+                    maximo = numero;
+                }
+                else if (numero < minimo)
+                {
+                    minimo = numero;
+                }
 
-            suma += numero;
+                suma += numero;
+            }
         }
         
         promedio = suma / numerosIngresados;
