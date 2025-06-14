@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\bin\Debug\net6.0\Empresa.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\bin\Debug\net6.0\Empresa.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\bin\Debug\net6.0\Empresa.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\refint\Empresa.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\Empresa.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Libreria de clases\Conductores\obj\Debug\net6.0\ref\Empresa.dll

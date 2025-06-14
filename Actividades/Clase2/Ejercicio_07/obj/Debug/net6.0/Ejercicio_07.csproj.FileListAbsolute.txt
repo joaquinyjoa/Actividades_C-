@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\bin\Debug\net6.0\Ejercicio_07.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\bin\Debug\net6.0\Ejercicio_07.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\bin\Debug\net6.0\Ejercicio_07.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\bin\Debug\net6.0\Ejercicio_07.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\bin\Debug\net6.0\Ejercicio_07.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\refint\Ejercicio_07.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\Ejercicio_07.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase2\Ejercicio_07\obj\Debug\net6.0\ref\Ejercicio_07.dll

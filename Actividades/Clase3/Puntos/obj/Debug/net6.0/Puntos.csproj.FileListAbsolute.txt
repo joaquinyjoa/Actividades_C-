@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\bin\Debug\net6.0\Puntos.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\bin\Debug\net6.0\Puntos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\bin\Debug\net6.0\Puntos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\refint\Puntos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\Puntos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Puntos\obj\Debug\net6.0\ref\Puntos.dll

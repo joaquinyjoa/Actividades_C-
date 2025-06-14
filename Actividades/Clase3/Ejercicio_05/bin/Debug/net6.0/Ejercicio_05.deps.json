@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_05/1.0.0": {
+        "dependencies": {
+          "Geometria": "1.0.0",
+          "Puntos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_05.dll": {}
+        }
+      },
+      "Geometria/1.0.0": {
+        "dependencies": {
+          "Puntos": "1.0.0"
+        },
+        "runtime": {
+          "Geometria.dll": {}
+        }
+      },
+      "Puntos/1.0.0": {
+        "runtime": {
+          "Puntos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Puntos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\bin\Debug\net6.0\Geometria.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\bin\Debug\net6.0\Geometria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\bin\Debug\net6.0\Geometria.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\bin\Debug\net6.0\Puntos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\bin\Debug\net6.0\Puntos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.csproj.Up2Date
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\refint\Geometria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\Geometria.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Rectangulos\obj\Debug\net6.0\ref\Geometria.dll

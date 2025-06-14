@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83E11A-E945-4EF7-BFE9-AD75A294F97C}|..\\Libreria de clases\\Personas\\Personas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\libreria de clases\\personas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71134D96-1632-48BB-A165-E2B341B18F79}|..\\Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250FEBD-A0FD-4B8B-A07F-28E3F544F1E6}|Ejercicio_01.csproj|C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250FEBD-A0FD-4B8B-A07F-28E3F544F1E6}|Ejercicio_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Libreria de clases\\Personas\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\Libreria de clases\\Personas\\Persona.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Libreria de clases\\Personas\\Persona.cs",
+              "RelativeToolTip": "..\\Libreria de clases\\Personas\\Persona.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:04:53.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_02\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:04:31.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:03:44.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

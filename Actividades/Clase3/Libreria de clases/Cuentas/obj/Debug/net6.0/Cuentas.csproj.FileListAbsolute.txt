@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\bin\Debug\net6.0\Cuentas.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\bin\Debug\net6.0\Cuentas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\bin\Debug\net6.0\Cuentas.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\refint\Cuentas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\Cuentas.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Cuentas\obj\Debug\net6.0\ref\Cuentas.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{489148F4-9C79-40FB-B0B3-17897DCC289F}|..\\Ejercicio_05\\Ejercicio_05.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9CECE5-D153-474D-9C15-EC48E8ED2D67}|..\\Puntos\\Puntos.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\puntos\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED87948-6E45-41C6-87B1-538DDE693310}|..\\Ejercicio_04\\Ejercicio_04.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B2AD92-0F6C-4BDF-93F9-673E8F3BD6F3}|..\\Boligrafo\\Boligrafos.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase3\\boligrafo\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Puntos\\Punto.cs",
+              "RelativeDocumentMoniker": "..\\Puntos\\Punto.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Puntos\\Punto.cs",
+              "RelativeToolTip": "..\\Puntos\\Punto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:49:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_05\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_05\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:07:38.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Boligrafo\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "..\\Boligrafo\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Boligrafo\\Boligrafo.cs",
+              "RelativeToolTip": "..\\Boligrafo\\Boligrafo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:22:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_04\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase3\\Ejercicio_04\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_04\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:22:11.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

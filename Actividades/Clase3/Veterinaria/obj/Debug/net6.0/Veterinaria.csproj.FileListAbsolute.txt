@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\bin\Debug\net6.0\Veterinaria.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\bin\Debug\net6.0\Veterinaria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\bin\Debug\net6.0\Veterinaria.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\refint\Veterinaria.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\Veterinaria.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase3\Veterinaria\obj\Debug\net6.0\ref\Veterinaria.dll
