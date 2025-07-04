@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_02", "..\Ejercicio_02\Ejercicio_02.csproj", "{785CAC51-EB76-4D6C-A7EE-60303E1B412A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billetera", "Billetera.csproj", "{E19A5A37-61F9-45C5-97C2-1E44AC745BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785CAC51-EB76-4D6C-A7EE-60303E1B412A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CAC51-EB76-4D6C-A7EE-60303E1B412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CAC51-EB76-4D6C-A7EE-60303E1B412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CAC51-EB76-4D6C-A7EE-60303E1B412A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19A5A37-61F9-45C5-97C2-1E44AC745BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19A5A37-61F9-45C5-97C2-1E44AC745BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19A5A37-61F9-45C5-97C2-1E44AC745BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19A5A37-61F9-45C5-97C2-1E44AC745BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C005A6D3-FAD5-441A-8D96-B093E6DBCC5D}
+	EndGlobalSection
+EndGlobal

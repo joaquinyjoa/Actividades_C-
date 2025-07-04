@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Billetera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+449a5d9e4ca3a86b44127805aceca405886a1149")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b291ce763b0d9ab96fb4d0b0a2c5a42a5c65f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Billetera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Billetera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
