@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\bin\Debug\net6.0\Carrera.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\bin\Debug\net6.0\Carrera.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\bin\Debug\net6.0\Carrera.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\refint\Carrera.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\Carrera.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase6\Carrera\obj\Debug\net6.0\ref\Carrera.dll

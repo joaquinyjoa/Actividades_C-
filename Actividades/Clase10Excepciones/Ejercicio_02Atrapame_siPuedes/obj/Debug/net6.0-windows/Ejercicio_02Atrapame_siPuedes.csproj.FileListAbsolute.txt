@@ -1,0 +1,17 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\bin\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\bin\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\bin\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\bin\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\bin\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.Form1.resources
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.csproj.GenerateResource.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\refint\Ejercicio_02Atrapame_siPuedes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\Ejercicio_02Atrapame_siPuedes.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase10Excepciones\Ejercicio_02Atrapame_siPuedes\obj\Debug\net6.0-windows\ref\Ejercicio_02Atrapame_siPuedes.dll

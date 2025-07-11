@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Ejercicio_02Atrapame_siPuedes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase10excepciones\\carrera\\competenecia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase10excepciones\\carrera\\competencianodisponibleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}|..\\Ejercicio_03Carrera\\Ejercicio_03.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase10excepciones\\ejercicio_03carrera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Ejercicio_03Carrera\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_03Carrera\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Ejercicio_03Carrera\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_03Carrera\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:19:45.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Competenecia.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Carrera\\Competenecia.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\Competenecia.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Carrera\\Competenecia.cs",
+              "RelativeToolTip": "..\\Carrera\\Competenecia.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAQwI8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:08:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetenciaNoDisponibleException.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Carrera\\CompetenciaNoDisponibleException.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\CompetenciaNoDisponibleException.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Carrera\\CompetenciaNoDisponibleException.cs",
+              "RelativeToolTip": "..\\Carrera\\CompetenciaNoDisponibleException.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:02:14.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

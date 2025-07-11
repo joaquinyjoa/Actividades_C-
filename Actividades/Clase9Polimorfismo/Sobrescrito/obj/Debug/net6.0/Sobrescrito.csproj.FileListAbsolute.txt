@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\bin\Debug\net6.0\Sobrescrito.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\bin\Debug\net6.0\Sobrescrito.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\bin\Debug\net6.0\Sobrescrito.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\refint\Sobrescrito.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\Sobrescrito.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase9Polimorfismo\Sobrescrito\obj\Debug\net6.0\ref\Sobrescrito.dll

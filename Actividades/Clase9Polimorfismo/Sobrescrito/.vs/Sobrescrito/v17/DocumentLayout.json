@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\Sobrescrito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5F12D7-A346-49CF-81D7-C74083EC0C3C}|..\\Ejercicio_02Atrapame_siPuedes\\Ejercicio_02Atrapame_siPuedes.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase9polimorfismo\\ejercicio_02atrapame_sipuedes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E65D527-E617-4178-926E-B80881F3125B}|..\\..\\Clase10Excepciones\\Ejercicio_01\\Ejercicio_01.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase10excepciones\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41009805-9E2C-4142-9F9E-74A4211D9A0A}|..\\ExcepcionesClases\\ExcepcionesClases.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase9polimorfismo\\excepcionesclases\\otraclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41009805-9E2C-4142-9F9E-74A4211D9A0A}|..\\ExcepcionesClases\\ExcepcionesClases.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase9polimorfismo\\excepcionesclases\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41009805-9E2C-4142-9F9E-74A4211D9A0A}|..\\ExcepcionesClases\\ExcepcionesClases.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase9polimorfismo\\excepcionesclases\\miexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41009805-9E2C-4142-9F9E-74A4211D9A0A}|..\\ExcepcionesClases\\ExcepcionesClases.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase9polimorfismo\\excepcionesclases\\unaexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\Ejercicio_02Atrapame_siPuedes\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_02Atrapame_siPuedes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\Ejercicio_02Atrapame_siPuedes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Ejercicio_02Atrapame_siPuedes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:09:22.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtraClase.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\OtraClase.cs",
+              "RelativeDocumentMoniker": "..\\ExcepcionesClases\\OtraClase.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\OtraClase.cs",
+              "RelativeToolTip": "..\\ExcepcionesClases\\OtraClase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:03:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiClase.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\MiClase.cs",
+              "RelativeDocumentMoniker": "..\\ExcepcionesClases\\MiClase.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\MiClase.cs",
+              "RelativeToolTip": "..\\ExcepcionesClases\\MiClase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:53:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\MiExcepcion.cs",
+              "RelativeDocumentMoniker": "..\\ExcepcionesClases\\MiExcepcion.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\MiExcepcion.cs",
+              "RelativeToolTip": "..\\ExcepcionesClases\\MiExcepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:52:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnaExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\UnaExcepcion.cs",
+              "RelativeDocumentMoniker": "..\\ExcepcionesClases\\UnaExcepcion.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\UnaExcepcion.cs",
+              "RelativeToolTip": "..\\ExcepcionesClases\\UnaExcepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:52:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Clase10Excepciones\\Ejercicio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase10Excepciones\\Ejercicio_01\\Program.cs",
+              "RelativeToolTip": "..\\..\\Clase10Excepciones\\Ejercicio_01\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:50:09.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

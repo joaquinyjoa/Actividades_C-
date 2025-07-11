@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\bin\Debug\net6.0\Paquetes.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\bin\Debug\net6.0\Paquetes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\bin\Debug\net6.0\Paquetes.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\refint\Paquetes.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\Paquetes.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase12Interfaces\Paquetes\obj\Debug\net6.0\ref\Paquetes.dll

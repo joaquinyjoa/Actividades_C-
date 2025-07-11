@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_04/1.0.0": {
+        "dependencies": {
+          "Clubes": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_04.dll": {}
+        }
+      },
+      "Clubes/1.0.0": {
+        "runtime": {
+          "Clubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

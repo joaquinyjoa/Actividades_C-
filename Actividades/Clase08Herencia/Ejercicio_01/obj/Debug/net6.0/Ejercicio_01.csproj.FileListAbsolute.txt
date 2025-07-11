@@ -1,0 +1,5 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase08Herencia\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase08Herencia\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase08Herencia\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase08Herencia\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase08Herencia\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.sourcelink.json

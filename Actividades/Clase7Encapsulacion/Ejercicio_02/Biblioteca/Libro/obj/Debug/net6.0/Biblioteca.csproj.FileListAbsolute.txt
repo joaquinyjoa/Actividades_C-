@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase7Encapsulacion\Ejercicio_02\Biblioteca\Libro\obj\Debug\net6.0\ref\Biblioteca.dll

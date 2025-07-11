@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5345113F-18F2-46F7-B1B5-36A64BB62632}|Clubes\\Clubes.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase7encapsulacion\\ejercicio_04\\clubes\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5345113F-18F2-46F7-B1B5-36A64BB62632}|Clubes\\Clubes.csproj|solutionrelative:clubes\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3737ACA3-ED89-45DF-BB11-2055C06E98BB}|Ejercicio_04.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase7encapsulacion\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3737ACA3-ED89-45DF-BB11-2055C06E98BB}|Ejercicio_04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5345113F-18F2-46F7-B1B5-36A64BB62632}|Clubes\\Clubes.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase7encapsulacion\\ejercicio_04\\clubes\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5345113F-18F2-46F7-B1B5-36A64BB62632}|Clubes\\Clubes.csproj|solutionrelative:clubes\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Clubes\\Equipo.cs",
+              "RelativeDocumentMoniker": "Clubes\\Equipo.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Clubes\\Equipo.cs",
+              "RelativeToolTip": "Clubes\\Equipo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:30:35.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Clubes\\Jugador.cs",
+              "RelativeDocumentMoniker": "Clubes\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Clubes\\Jugador.cs",
+              "RelativeToolTip": "Clubes\\Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:21:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:19:25.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF4F4BA-1C93-4625-B423-FC3D24171C89}|Ejercicio_01.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF4F4BA-1C93-4625-B423-FC3D24171C89}|Ejercicio_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\biblioteca\\biblioteca\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\biblioteca\\biblioteca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\biblioteca\\biblioteca\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\biblioteca\\biblioteca\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_01\\biblioteca\\biblioteca\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25D1B9-E02D-4AFE-AE78-8F638258F346}|biblioteca\\Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculoTerrestre.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\VehiculoTerrestre.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Biblioteca\\VehiculoTerrestre.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\VehiculoTerrestre.cs",
+              "RelativeToolTip": "biblioteca\\Biblioteca\\VehiculoTerrestre.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:01:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Camion.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Biblioteca\\Camion.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Camion.cs",
+              "RelativeToolTip": "biblioteca\\Biblioteca\\Camion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:50:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Automovil.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Biblioteca\\Automovil.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Automovil.cs",
+              "RelativeToolTip": "biblioteca\\Biblioteca\\Automovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:47:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Moto.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Biblioteca\\Moto.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Moto.cs",
+              "RelativeToolTip": "biblioteca\\Biblioteca\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:50:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colores.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Colores.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Biblioteca\\Colores.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\biblioteca\\Biblioteca\\Colores.cs",
+              "RelativeToolTip": "biblioteca\\Biblioteca\\Colores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:48:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:46:33.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

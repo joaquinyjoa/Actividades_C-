@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_03/1.0.0": {
+        "dependencies": {
+          "Carrera": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_03.dll": {}
+        }
+      },
+      "Carrera/1.0.0": {
+        "runtime": {
+          "Carrera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Carrera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

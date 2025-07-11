@@ -1,0 +1,17 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\bin\Debug\net6.0-windows\Ejercicio_04.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\bin\Debug\net6.0-windows\Ejercicio_04.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\bin\Debug\net6.0-windows\Ejercicio_04.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\bin\Debug\net6.0-windows\Ejercicio_04.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\bin\Debug\net6.0-windows\Ejercicio_04.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.Form1.resources
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.csproj.GenerateResource.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\refint\Ejercicio_04.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\Ejercicio_04.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase5\Ejercicio_04\obj\Debug\net6.0-windows\ref\Ejercicio_04.dll

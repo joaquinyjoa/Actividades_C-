@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_03", "..\Ejercicio_03Carrera\Ejercicio_03.csproj", "{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Carrera", "..\Carrera\Carrera.csproj", "{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DF680F-8C5C-4EB3-AD69-8708FD9B7DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23AACA5-CB1C-4BCB-98DE-3884A1E2D735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB2DB23-DE1A-40AA-BD7B-C741A91F22E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0443C55C-67CE-464C-8B3F-B622EA36CCC4}|Ejercicio_03.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443C55C-67CE-464C-8B3F-B622EA36CCC4}|Ejercicio_03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB74DBFC-CA69-41B2-8D2F-BF536D62F182}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\carrera\\competenecia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB74DBFC-CA69-41B2-8D2F-BF536D62F182}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\carrera\\vehiculodecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB74DBFC-CA69-41B2-8D2F-BF536D62F182}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\carrera\\motocross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB74DBFC-CA69-41B2-8D2F-BF536D62F182}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\carrera\\tipocompetencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB74DBFC-CA69-41B2-8D2F-BF536D62F182}|..\\Carrera\\Carrera.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase08herencia\\carrera\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCompetencia.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\TipoCompetencia.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\TipoCompetencia.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\TipoCompetencia.cs",
+              "RelativeToolTip": "..\\Carrera\\TipoCompetencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:02:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Competenecia.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\Competenecia.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\Competenecia.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\Competenecia.cs",
+              "RelativeToolTip": "..\\Carrera\\Competenecia.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAYwIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:01:50.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotoCross.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\MotoCross.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\MotoCross.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\MotoCross.cs",
+              "RelativeToolTip": "..\\Carrera\\MotoCross.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:57:38.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculoDeCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\VehiculoDeCarrera.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\VehiculoDeCarrera.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\VehiculoDeCarrera.cs",
+              "RelativeToolTip": "..\\Carrera\\VehiculoDeCarrera.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvz4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:43:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoF1.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\AutoF1.cs",
+              "RelativeDocumentMoniker": "..\\Carrera\\AutoF1.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Carrera\\AutoF1.cs",
+              "RelativeToolTip": "..\\Carrera\\AutoF1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:42:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase08Herencia\\Ejercicio_03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:41:42.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

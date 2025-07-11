@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRLg06zI4hs8RV8zg2MAsby65l6wGiYsJiSLBN3PgIvC/dn+0weXhvCYtaNhnDq+7ypjpG3JuyJ7zX/GLEM62A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase9Polimorfismo\\ExcepcionesClases\\ExcepcionesClases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7\\I02_Cartelera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6CE970-E1BF-4A42-AA34-DE828369389F}|..\\..\\Clase7Encapsulacion\\Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase7encapsulacion\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A0EC71-0EFC-4632-88BD-DC467A0D98C3}|..\\..\\Clase7Encapsulacion\\Ejercicio_02\\Biblioteca\\Libro\\Biblioteca.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase7encapsulacion\\ejercicio_02\\biblioteca\\libro\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Clase7Encapsulacion\\Ejercicio_03\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_03\\Program.cs",
+              "RelativeToolTip": "..\\..\\Clase7Encapsulacion\\Ejercicio_03\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:15:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_02\\Biblioteca\\Libro\\Libro.cs",
+              "RelativeDocumentMoniker": "..\\..\\Clase7Encapsulacion\\Ejercicio_02\\Biblioteca\\Libro\\Libro.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase7Encapsulacion\\Ejercicio_02\\Biblioteca\\Libro\\Libro.cs",
+              "RelativeToolTip": "..\\..\\Clase7Encapsulacion\\Ejercicio_02\\Biblioteca\\Libro\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:52:18.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

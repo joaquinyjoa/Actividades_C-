@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_05/1.0.0": {
+        "dependencies": {
+          "Grados": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_05.dll": {}
+        }
+      },
+      "Grados/1.0.0": {
+        "runtime": {
+          "Grados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

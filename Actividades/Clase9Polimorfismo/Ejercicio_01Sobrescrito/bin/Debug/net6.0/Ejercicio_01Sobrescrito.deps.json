@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_01Sobrescrito/1.0.0": {
+        "dependencies": {
+          "Sobrescrito": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_01Sobrescrito.dll": {}
+        }
+      },
+      "Sobrescrito/1.0.0": {
+        "runtime": {
+          "Sobrescrito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_01Sobrescrito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sobrescrito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
