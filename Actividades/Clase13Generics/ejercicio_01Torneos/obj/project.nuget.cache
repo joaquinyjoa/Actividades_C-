@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNIKtwN5dmLeUT2afH1RMl3Txt8mpztg9TZ/w6nF7hTkySobvKk8uH64dMo2i/Mx5Egd44pNiZfi/FCEwh6ndA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\ejercicio_01Torneos\\ejercicio_01Torneos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

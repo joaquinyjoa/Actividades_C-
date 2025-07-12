@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F191D7-9C96-4E4C-B156-13B4D63ADE5A}|..\\Ejercicio_02Documento\\Ejercicio_02Documento.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\ejercicio_02documento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D840DB6-263A-4BBB-B3F8-FD47B8EC09DF}|..\\BibliotecaContabilidad\\BibliotecaContabilidad.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecacontabilidad\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D840DB6-263A-4BBB-B3F8-FD47B8EC09DF}|..\\BibliotecaContabilidad\\BibliotecaContabilidad.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecacontabilidad\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D840DB6-263A-4BBB-B3F8-FD47B8EC09DF}|..\\BibliotecaContabilidad\\BibliotecaContabilidad.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecacontabilidad\\recibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D840DB6-263A-4BBB-B3F8-FD47B8EC09DF}|..\\BibliotecaContabilidad\\BibliotecaContabilidad.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecacontabilidad\\contabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecatorneo\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|solutionrelative:torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09DB3F-D41F-4376-BBDB-935FB18C95D7}|..\\ejercicio_01Torneos\\ejercicio_01Torneos.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\ejercicio_01torneos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecatorneo\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|solutionrelative:equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecatorneo\\equipobasquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|solutionrelative:equipobasquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\clase13generics\\bibliotecatorneo\\equipofutbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EDE4E4-983F-4615-B69C-9E869A7813B7}|BibliotecaTorneo.csproj|solutionrelative:equipofutbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\Ejercicio_02Documento\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio_02Documento\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\Ejercicio_02Documento\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio_02Documento\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:51:20.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Factura.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaContabilidad\\Factura.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Factura.cs",
+              "RelativeToolTip": "..\\BibliotecaContabilidad\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:29:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recibo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Recibo.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaContabilidad\\Recibo.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Recibo.cs",
+              "RelativeToolTip": "..\\BibliotecaContabilidad\\Recibo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:28:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Documento.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaContabilidad\\Documento.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Documento.cs",
+              "RelativeToolTip": "..\\BibliotecaContabilidad\\Documento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:28:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contabilidad.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Contabilidad.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaContabilidad\\Contabilidad.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaContabilidad\\Contabilidad.cs",
+              "RelativeToolTip": "..\\BibliotecaContabilidad\\Contabilidad.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:26:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\ejercicio_01Torneos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejercicio_01Torneos\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\ejercicio_01Torneos\\Program.cs",
+              "RelativeToolTip": "..\\ejercicio_01Torneos\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:11:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipoBasquet.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\EquipoBasquet.cs",
+              "RelativeDocumentMoniker": "EquipoBasquet.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\EquipoBasquet.cs",
+              "RelativeToolTip": "EquipoBasquet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:56:02.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipoFutbol.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\EquipoFutbol.cs",
+              "RelativeDocumentMoniker": "EquipoFutbol.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\EquipoFutbol.cs",
+              "RelativeToolTip": "EquipoFutbol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:55:41.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\Equipo.cs",
+              "RelativeDocumentMoniker": "Equipo.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\Equipo.cs",
+              "RelativeToolTip": "Equipo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:52:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Torneo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\Torneo.cs",
+              "RelativeDocumentMoniker": "Torneo.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase13Generics\\BibliotecaTorneo\\Torneo.cs",
+              "RelativeToolTip": "Torneo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:38:43.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

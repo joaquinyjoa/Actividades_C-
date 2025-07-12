@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\bin\Debug\net6.0\BibliotecaTorneo.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\bin\Debug\net6.0\BibliotecaTorneo.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\bin\Debug\net6.0\BibliotecaTorneo.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\refint\BibliotecaTorneo.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\BibliotecaTorneo.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Clase13Generics\BibliotecaTorneo\obj\Debug\net6.0\ref\BibliotecaTorneo.dll

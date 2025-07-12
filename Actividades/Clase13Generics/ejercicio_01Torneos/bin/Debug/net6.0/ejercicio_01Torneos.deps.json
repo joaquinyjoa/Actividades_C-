@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ejercicio_01Torneos/1.0.0": {
+        "dependencies": {
+          "BibliotecaTorneo": "1.0.0"
+        },
+        "runtime": {
+          "ejercicio_01Torneos.dll": {}
+        }
+      },
+      "BibliotecaTorneo/1.0.0": {
+        "runtime": {
+          "BibliotecaTorneo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicio_01Torneos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaTorneo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

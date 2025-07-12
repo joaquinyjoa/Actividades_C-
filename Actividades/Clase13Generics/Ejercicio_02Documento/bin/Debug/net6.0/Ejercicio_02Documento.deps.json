@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio_02Documento/1.0.0": {
+        "dependencies": {
+          "BibliotecaContabilidad": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_02Documento.dll": {}
+        }
+      },
+      "BibliotecaContabilidad/1.0.0": {
+        "runtime": {
+          "BibliotecaContabilidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_02Documento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaContabilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
