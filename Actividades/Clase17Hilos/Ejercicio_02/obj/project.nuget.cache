@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "scJDOXkjnM4MXzt/torXHuZ0eRzLEZLu+VhaZL2J+GA09dI1IcPd5JB/yCy/vr5VM1r3kLd3QASb79GJMgkOWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Clase17Hilos\\Ejercicio_02\\Ejercicio_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
