@@ -1,0 +1,13 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\bin\Debug\net6.0\Herramientas.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\bin\Debug\net6.0\Herramientas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\bin\Debug\net6.0\Herramientas.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\refint\Herramientas.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\Herramientas.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica\Herramientas\obj\Debug\net6.0\ref\Herramientas.dll

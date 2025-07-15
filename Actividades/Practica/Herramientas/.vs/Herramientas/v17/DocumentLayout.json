@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\hechizero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:hechizero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE87069-3353-4E49-8F79-B91392FEE355}|..\\Prueba\\Prueba.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica\\herramientas\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34006A17-87C1-406E-B87E-9178F8B31E7F}|Herramientas.csproj|solutionrelative:ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonajeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\PersonajeDAO.cs",
+              "RelativeDocumentMoniker": "PersonajeDAO.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\PersonajeDAO.cs",
+              "RelativeToolTip": "PersonajeDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:00:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Prueba\\Program.cs",
+              "RelativeToolTip": "..\\Prueba\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:55:47.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:59:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAL8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:21:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hechizero.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Hechizero.cs",
+              "RelativeDocumentMoniker": "Hechizero.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Hechizero.cs",
+              "RelativeToolTip": "Hechizero.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:14:40.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\IJugador.cs",
+              "RelativeDocumentMoniker": "IJugador.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\IJugador.cs",
+              "RelativeToolTip": "IJugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:14:39.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Combate.cs",
+              "RelativeDocumentMoniker": "Combate.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica\\Herramientas\\Combate.cs",
+              "RelativeToolTip": "Combate.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:14:33.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
