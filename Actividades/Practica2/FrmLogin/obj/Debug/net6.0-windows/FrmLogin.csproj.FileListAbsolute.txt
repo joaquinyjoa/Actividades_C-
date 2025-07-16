@@ -26,3 +26,5 @@ C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLog
 C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLogin\obj\Debug\net6.0-windows\FrmLogin.FrmLogin.resources
 C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLogin\obj\Debug\net6.0-windows\FrmLogin.FrmPrincipal.resources
 C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLogin\obj\Debug\net6.0-windows\FrmLogin.csproj.Up2Date
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLogin\obj\Debug\net6.0-windows\FrmLogin.FrmEnv.resources
+C:\Users\Joaquin\Desktop\Actividades\Actividades_C-\Actividades\Practica2\FrmLogin\obj\Debug\net6.0-windows\FrmLogin.FrmListado.resources

@@ -31,10 +31,15 @@
             menuStrip1 = new MenuStrip();
             usuariosToolStripMenuItem = new ToolStripMenuItem();
             tsmListadoCrud = new ToolStripMenuItem();
+            tsmVerLog = new ToolStripMenuItem();
+            tsmDeserializarJSON = new ToolStripMenuItem();
+            tsmTask = new ToolStripMenuItem();
             verLogToolStripMenuItem = new ToolStripMenuItem();
-            deserializarJSONToolStripMenuItem = new ToolStripMenuItem();
-            taskToolStripMenuItem = new ToolStripMenuItem();
+            groupBox1 = new GroupBox();
+            openFileDialog1 = new OpenFileDialog();
+            lstUsuarios = new ListBox();
             menuStrip1.SuspendLayout();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // menuStrip1
@@ -48,7 +53,7 @@
             // 
             // usuariosToolStripMenuItem
             // 
-            usuariosToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { tsmListadoCrud, verLogToolStripMenuItem, deserializarJSONToolStripMenuItem, taskToolStripMenuItem });
+            usuariosToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { tsmListadoCrud, tsmVerLog, tsmDeserializarJSON, tsmTask, verLogToolStripMenuItem });
             usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
             usuariosToolStripMenuItem.Size = new Size(64, 20);
             usuariosToolStripMenuItem.Text = "Usuarios";
@@ -56,39 +61,74 @@
             // tsmListadoCrud
             // 
             tsmListadoCrud.Name = "tsmListadoCrud";
-            tsmListadoCrud.Size = new Size(180, 22);
+            tsmListadoCrud.Size = new Size(178, 22);
             tsmListadoCrud.Text = "1.-Listado CRUD";
             tsmListadoCrud.Click += tsmListadoCrud_Click;
+            // 
+            // tsmVerLog
+            // 
+            tsmVerLog.Name = "tsmVerLog";
+            tsmVerLog.Size = new Size(178, 22);
+            tsmVerLog.Text = "2.-Ver log";
+            tsmVerLog.Click += tsmVerLog_Click;
+            // 
+            // tsmDeserializarJSON
+            // 
+            tsmDeserializarJSON.Name = "tsmDeserializarJSON";
+            tsmDeserializarJSON.Size = new Size(178, 22);
+            tsmDeserializarJSON.Text = "3.-Deserializar JSON";
+            tsmDeserializarJSON.Click += tsmDeserializarJSON_Click;
+            // 
+            // tsmTask
+            // 
+            tsmTask.Name = "tsmTask";
+            tsmTask.Size = new Size(178, 22);
+            tsmTask.Text = "4.-Task";
+            tsmTask.Click += tsmTask_Click;
             // 
             // verLogToolStripMenuItem
             // 
             verLogToolStripMenuItem.Name = "verLogToolStripMenuItem";
-            verLogToolStripMenuItem.Size = new Size(180, 22);
+            verLogToolStripMenuItem.Size = new Size(178, 22);
             verLogToolStripMenuItem.Text = "2.-Ver log";
             // 
-            // deserializarJSONToolStripMenuItem
+            // groupBox1
             // 
-            deserializarJSONToolStripMenuItem.Name = "deserializarJSONToolStripMenuItem";
-            deserializarJSONToolStripMenuItem.Size = new Size(180, 22);
-            deserializarJSONToolStripMenuItem.Text = "3.-Deserializar JSON";
+            groupBox1.Controls.Add(lstUsuarios);
+            groupBox1.Location = new Point(12, 27);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(776, 230);
+            groupBox1.TabIndex = 1;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "groupBox1";
             // 
-            // taskToolStripMenuItem
+            // openFileDialog1
             // 
-            taskToolStripMenuItem.Name = "taskToolStripMenuItem";
-            taskToolStripMenuItem.Size = new Size(180, 22);
-            taskToolStripMenuItem.Text = "4.-Task";
+            openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // lstUsuarios
+            // 
+            lstUsuarios.FormattingEnabled = true;
+            lstUsuarios.ItemHeight = 15;
+            lstUsuarios.Location = new Point(6, 22);
+            lstUsuarios.Name = "lstUsuarios";
+            lstUsuarios.Size = new Size(764, 199);
+            lstUsuarios.TabIndex = 0;
             // 
             // FrmPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 269);
+            Controls.Add(groupBox1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "FrmPrincipal";
             Text = "FrmPrincipal";
+            Load += FrmPrincipal_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
+            groupBox1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -98,8 +138,12 @@
         private MenuStrip menuStrip1;
         private ToolStripMenuItem usuariosToolStripMenuItem;
         private ToolStripMenuItem tsmListadoCrud;
+        private ToolStripMenuItem tsmVerLog;
+        private ToolStripMenuItem tsmDeserializarJSON;
+        private ToolStripMenuItem tsmTask;
         private ToolStripMenuItem verLogToolStripMenuItem;
-        private ToolStripMenuItem deserializarJSONToolStripMenuItem;
-        private ToolStripMenuItem taskToolStripMenuItem;
+        private GroupBox groupBox1;
+        private OpenFileDialog openFileDialog1;
+        private ListBox lstUsuarios;
     }
 }

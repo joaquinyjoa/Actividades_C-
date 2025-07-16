@@ -47,15 +47,50 @@ namespace FrmLogin
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {
-            usuario = new Usuario(
-                txtNombre.Text,
-                txtApellido.Text,
-                Convert.ToInt32(txtDni.Text),
-                txtCorreo.Text
-            );
+            try
+            {
+                // Validación básica de campos vacíos
+                if (string.IsNullOrWhiteSpace(txtNombre.Text) ||
+                    string.IsNullOrWhiteSpace(txtApellido.Text) ||
+                    string.IsNullOrWhiteSpace(txtDni.Text) ||
+                    string.IsNullOrWhiteSpace(txtCorreo.Text) ||
+                    string.IsNullOrWhiteSpace(txtContraseña.Text))
+                {
+                    MessageBox.Show("Todos los campos deben estar completos.", "Error de validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
 
-            this.DialogResult = DialogResult.OK;
-            this.Close();
+                // Intentar convertir el DNI
+                if (!int.TryParse(txtDni.Text, out int dni))
+                {
+                    MessageBox.Show("El DNI debe ser un número válido.", "Error de formato", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                // Crear el usuario si todo está correcto
+                usuario = new Usuario(
+                    txtNombre.Text,
+                    txtApellido.Text,
+                    dni,
+                    txtCorreo.Text
+                );
+
+                // Si llegamos hasta acá, cerrar correctamente
+                this.DialogResult = DialogResult.OK;
+                this.Close();
+            }
+            catch (FormatException ex)
+            {
+                MessageBox.Show($"Error de formato: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (OverflowException ex)
+            {
+                MessageBox.Show($"Número demasiado grande o pequeño: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ocurrió un error inesperado: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0833C5F1-9911-44B8-9CBB-B356FA48699C}|..\\Entidades.Final\\Entidades.Final.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\entidades.final\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833C5F1-9911-44B8-9CBB-B356FA48699C}|..\\Entidades.Final\\Entidades.Final.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\entidades.final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833C5F1-9911-44B8-9CBB-B356FA48699C}|..\\Entidades.Final\\Entidades.Final.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\entidades.final\\manejadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\frmlogin\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\frmlogin\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\frmlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|c:\\users\\joaquin\\desktop\\actividades\\actividades_c-\\actividades\\practica2\\frmlogin\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDDC4464-2E67-4FD9-AAC2-362F2467D9ED}|FrmLogin.csproj|solutionrelative:frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Entidades.Final\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\Usuario.cs",
+              "RelativeToolTip": "..\\Entidades.Final\\Usuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:40:16.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADO.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\ADO.cs",
+              "RelativeDocumentMoniker": "..\\Entidades.Final\\ADO.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\ADO.cs",
+              "RelativeToolTip": "..\\Entidades.Final\\ADO.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAkwH8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:40:12.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manejadora.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\Manejadora.cs",
+              "RelativeDocumentMoniker": "..\\Entidades.Final\\Manejadora.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\Entidades.Final\\Manejadora.cs",
+              "RelativeToolTip": "..\\Entidades.Final\\Manejadora.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:28:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAADwv+kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:20:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:19:58.365Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:19:56.56Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmListado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmListado.cs",
+              "RelativeDocumentMoniker": "FrmListado.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades_C-\\Actividades\\Practica2\\FrmLogin\\FrmListado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmListado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:19:49.934Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

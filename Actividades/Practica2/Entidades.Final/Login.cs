@@ -37,7 +37,7 @@ namespace Entidades.Final
                 command = new SqlCommand();
                 command.CommandType = CommandType.Text;
                 command.Connection = connection;
-                command.CommandText = "SELECT * FROM USUARIOS WHERE EMAIL = @correo AND PASS = @clave" ;
+                command.CommandText = "SELECT * FROM USUARIOS WHERE EMAIL = @correo AND CLAVE = @clave" ;
 
                 // Parámetros
                 command.Parameters.AddWithValue("@correo", this.email);

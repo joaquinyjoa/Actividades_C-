@@ -18,17 +18,35 @@ namespace FrmLogin
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {
-            string correo = this.txtCorreo.Text;
-            string clave = this.txtContraseña.Text;
-
-            login = new Login(correo, clave);
-
-            if (login.Loguear())
+            try
             {
-                FrmPrincipal principal = new FrmPrincipal();
-                this.Hide();
-                principal.Show();
+                string correo = this.txtCorreo.Text;
+                string clave = this.txtContraseña.Text;
+
+                if (string.IsNullOrWhiteSpace(correo) || string.IsNullOrWhiteSpace(clave))
+                {
+                    MessageBox.Show("Por favor, ingrese correo y contraseña.", "Datos incompletos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                login = new Login(correo, clave);
+
+                if (login.Loguear())
+                {
+                    FrmPrincipal principal = new FrmPrincipal();
+                    this.Hide();
+                    principal.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Correo o contraseña incorrectos.", "Error de autenticación", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error inesperado al intentar iniciar sesión: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
     }
 }

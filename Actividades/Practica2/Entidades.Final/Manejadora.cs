@@ -5,6 +5,7 @@ namespace Entidades.Final
 {
     public static class Manejadora
     {
+
         public static bool EscribirArchivo(List<Usuario> users)
         {
             try
@@ -31,8 +32,20 @@ namespace Entidades.Final
 
                 return true;
             }
-            catch
+            catch (IOException ex)
             {
+                // Error relacionado con el sistema de archivos
+                Console.WriteLine($"Error de I/O al escribir el archivo: {ex.Message}");
+                return false;
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                Console.WriteLine($"Acceso denegado al escribir el archivo: {ex.Message}");
+                return false;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error inesperado al escribir el archivo: {ex.Message}");
                 return false;
             }
         }
@@ -45,8 +58,19 @@ namespace Entidades.Final
                 File.WriteAllText(path, json);
                 return true;
             }
-            catch
+            catch (UnauthorizedAccessException ex)
             {
+                Console.WriteLine($"Acceso denegado al escribir JSON: {ex.Message}");
+                return false;
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Error de I/O al escribir JSON: {ex.Message}");
+                return false;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error inesperado al serializar JSON: {ex.Message}");
                 return false;
             }
         }
@@ -54,14 +78,31 @@ namespace Entidades.Final
         public static bool DeserializarJSON(string path, out List<Usuario> users)
         {
             users = new List<Usuario>();
+
             try
             {
                 string json = File.ReadAllText(path);
                 users = JsonSerializer.Deserialize<List<Usuario>>(json);
                 return true;
             }
-            catch
+            catch (FileNotFoundException ex)
             {
+                Console.WriteLine($"Archivo JSON no encontrado: {ex.Message}");
+                return false;
+            }
+            catch (JsonException ex)
+            {
+                Console.WriteLine($"Error en el formato JSON: {ex.Message}");
+                return false;
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Error de I/O al leer JSON: {ex.Message}");
+                return false;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error inesperado al deserializar JSON: {ex.Message}");
                 return false;
             }
         }

@@ -31,106 +31,156 @@ namespace FrmLogin
 
         private void Manejador_apellidoExistenteJSON(object sender, List<Usuario> usuarios)
         {
-            string rutaEscritorio = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "usuarios_repetidos.json");
-
-            if (!Manejadora.SerializarJSON(usuarios, rutaEscritorio))
+            try
             {
-                MessageBox.Show("Error al serializar los usuarios repetidos.");
+                string rutaEscritorio = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "usuarios_repetidos.json");
+
+                if (!Manejadora.SerializarJSON(usuarios, rutaEscritorio))
+                {
+                    MessageBox.Show("Error al serializar los usuarios repetidos.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al guardar JSON: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void Manejador_apellidoExistenteLog(object sender, List<Usuario> usuarios)
         {
-            if (!Manejadora.EscribirArchivo(usuarios))
+            try
             {
-                MessageBox.Show("Error al escribir el archivo de log.");
+                if (!Manejadora.EscribirArchivo(usuarios))
+                {
+                    MessageBox.Show("Error al escribir el archivo de log.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al escribir log: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void ManejarApellidoExistente(object sender, List<Usuario> usuarios)
         {
-            string mensaje = "Ya existen usuarios con ese apellido:\n\n";
-            foreach (var u in usuarios)
+            try
             {
-                mensaje += $"{u.Nombre} {u.Apellido} - DNI: {u.Dni}\n";
-            }
+                string mensaje = "Ya existen usuarios con ese apellido:\n\n";
+                foreach (var u in usuarios)
+                {
+                    mensaje += $"{u.Nombre} {u.Apellido} - DNI: {u.Dni}\n";
+                }
 
-            MessageBox.Show(mensaje, "Apellido duplicado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show(mensaje, "Apellido duplicado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al mostrar aviso de duplicado: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
+
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            FrmEnv frmAlta = new FrmEnv();
-
-            if (frmAlta.ShowDialog() == DialogResult.OK)
+            try
             {
-                Usuario nuevoUsuario = frmAlta.UsuarioCreado;
+                FrmEnv frmAlta = new FrmEnv();
 
-                if (ADO.Instancia.Agregar(nuevoUsuario))
+                if (frmAlta.ShowDialog() == DialogResult.OK)
                 {
-                    MessageBox.Show("Usuario agregado con éxito");
-                    RefrescarGrilla(); // Recarga el DataGridView
+                    Usuario nuevoUsuario = frmAlta.UsuarioCreado;
+
+                    if (ADO.Instancia.Agregar(nuevoUsuario))
+                    {
+                        MessageBox.Show("Usuario agregado con éxito");
+                        RefrescarGrilla();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Error al agregar usuario");
+                    }
                 }
-                else
-                {
-                    MessageBox.Show("Error al agregar usuario");
-                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al intentar agregar usuario: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-            Usuario seleccionado = (Usuario)dgvUsuarios.CurrentRow?.DataBoundItem;
-
-            if (seleccionado is not null)
+            try
             {
-                FrmEnv frmModificar = new FrmEnv(seleccionado);
+                Usuario seleccionado = (Usuario)dgvUsuarios.CurrentRow?.DataBoundItem;
 
-                if (frmModificar.ShowDialog() == DialogResult.OK)
+                if (seleccionado is not null)
                 {
-                    Usuario actualizado = frmModificar.UsuarioCreado;
+                    FrmEnv frmModificar = new FrmEnv(seleccionado);
 
-                    if (ADO.Instancia.Modificar(actualizado))
+                    if (frmModificar.ShowDialog() == DialogResult.OK)
                     {
-                        MessageBox.Show("Usuario modificado correctamente");
-                        RefrescarGrilla(); // 🔁 Recarga el DataGridView
-                    }
-                    else
-                    {
-                        MessageBox.Show("Error al modificar el usuario");
+                        Usuario actualizado = frmModificar.UsuarioCreado;
+
+                        if (ADO.Instancia.Modificar(actualizado))
+                        {
+                            MessageBox.Show("Usuario modificado correctamente");
+                            RefrescarGrilla();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Error al modificar el usuario");
+                        }
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al modificar usuario: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            Usuario seleccionado = (Usuario)dgvUsuarios.CurrentRow?.DataBoundItem;
-
-            if (seleccionado is not null)
+            try
             {
-                FrmEnv frmEliminar = new FrmEnv(seleccionado, soloLectura: true);
+                Usuario seleccionado = (Usuario)dgvUsuarios.CurrentRow?.DataBoundItem;
 
-                if (frmEliminar.ShowDialog() == DialogResult.OK)
+                if (seleccionado is not null)
                 {
-                    if (ADO.Instancia.Eliminar(seleccionado))
+                    FrmEnv frmEliminar = new FrmEnv(seleccionado, soloLectura: true);
+
+                    if (frmEliminar.ShowDialog() == DialogResult.OK)
                     {
-                        MessageBox.Show("Usuario eliminado correctamente");
-                        RefrescarGrilla();
-                    }
-                    else
-                    {
-                        MessageBox.Show("Error al eliminar el usuario");
+                        if (ADO.Instancia.Eliminar(seleccionado))
+                        {
+                            MessageBox.Show("Usuario eliminado correctamente");
+                            RefrescarGrilla();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Error al eliminar el usuario");
+                        }
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al eliminar usuario: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void RefrescarGrilla()
         {
-            dgvUsuarios.DataSource = null;
-            dgvUsuarios.DataSource = ADO.Instancia.ObtenerTodos();
+            try
+            {
+                dgvUsuarios.DataSource = null;
+                dgvUsuarios.DataSource = ADO.Instancia.ObtenerTodos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al refrescar la grilla: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
+        }
     }
-}

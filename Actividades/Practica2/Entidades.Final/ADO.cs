@@ -40,148 +40,189 @@ namespace Entidades.Final
 
         //public bool Agregar(Usuario user) 
         //{
-        //    SqlConnection connection; // Puente.
-        //    SqlCommand command;      // Quien lleva la consulta.
-        //    SqlDataReader reader;   // Quien trae los datos.
-
-        //    using (connection = new SqlConnection(conexion))
+        //    try
         //    {
-        //        command = new SqlCommand();
-        //        command.CommandType = CommandType.Text;
-        //        command.Connection = connection;
-        //        command.CommandText = "INSERT INTO USUARIOS (EMAIL, CLAVE, NOMBRE, APELLIDO, DNI) VALUES (@correo, @clave, @nombre, @apellido, @dni)";
-
-        //        // Parámetros
-        //        command.Parameters.AddWithValue("@correo", user.Correo);
-        //        command.Parameters.AddWithValue("@clave", user.Clave);
-        //        command.Parameters.AddWithValue("@nombre", user.Nombre);
-        //        command.Parameters.AddWithValue("@apellido", user.Apellido);
-        //        command.Parameters.AddWithValue("@dni", user.Dni);
-
-        //        connection.Open();
-
-        //        int count = command.ExecuteNonQuery();
-
-        //        return count > 0;
+        //        using (SqlConnection connection = new SqlConnection(conexion))
+        //        {
+        //            SqlCommand command = new SqlCommand();
+        //            command.CommandType = CommandType.Text;
+        //            command.Connection = connection;
+        //            command.CommandText = "INSERT INTO USUARIOS (EMAIL, CLAVE, NOMBRE, APELLIDO, DNI) VALUES (@correo, @clave, @nombre, @apellido, @dni)";
+        //
+        //            command.Parameters.AddWithValue("@correo", user.Correo);
+        //            command.Parameters.AddWithValue("@clave", user.Clave);
+        //            command.Parameters.AddWithValue("@nombre", user.Nombre);
+        //            command.Parameters.AddWithValue("@apellido", user.Apellido);
+        //            command.Parameters.AddWithValue("@dni", user.Dni);
+        //
+        //            connection.Open();
+        //
+        //            int count = command.ExecuteNonQuery();
+        //
+        //            return count > 0;
+        //        }
+        //    }
+        //    catch (SqlException ex)
+        //    {
+        //        throw new Exception("Error al insertar usuario (versión antigua).", ex);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        throw new Exception("Error inesperado al agregar usuario (versión antigua).", ex);
         //    }
         //}
 
+
         public bool Agregar(Usuario user)
         {
-            // Verificar si el apellido ya existe
-            List<Usuario> usuarios = ObtenerTodos();
-            List<Usuario> coincidencias = usuarios
-                .Where(u => u.Apellido.Equals(user.Apellido, StringComparison.OrdinalIgnoreCase))
-                .ToList();
-
-            if (coincidencias.Any())
+            try
             {
-                // Disparar el evento
-                ApellidoUsuarioExistente?.Invoke(this, coincidencias);
-                return false; // Evita agregar si el apellido ya existe (según lo que pide el enunciado)
+                List<Usuario> usuarios = ObtenerTodos();
+                List<Usuario> coincidencias = usuarios
+                    .Where(u => u.Apellido.Equals(user.Apellido, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+
+                if (coincidencias.Any())
+                {
+                    ApellidoUsuarioExistente?.Invoke(this, coincidencias);
+                    return false;
+                }
+
+                using (SqlConnection connection = new SqlConnection(conexion))
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.CommandType = CommandType.Text;
+                    command.Connection = connection;
+                    command.CommandText = "INSERT INTO USUARIOS (EMAIL, CLAVE, NOMBRE, APELLIDO, DNI) VALUES (@correo, @clave, @nombre, @apellido, @dni)";
+
+                    command.Parameters.AddWithValue("@correo", user.Correo);
+                    command.Parameters.AddWithValue("@clave", user.Clave);
+                    command.Parameters.AddWithValue("@nombre", user.Nombre);
+                    command.Parameters.AddWithValue("@apellido", user.Apellido);
+                    command.Parameters.AddWithValue("@dni", user.Dni);
+
+                    connection.Open();
+                    int count = command.ExecuteNonQuery();
+
+                    return count > 0;
+                }
             }
-
-            // Si no hay coincidencia, se agrega
-            using (SqlConnection connection = new SqlConnection(conexion))
-            using (SqlCommand command = new SqlCommand())
+            catch (SqlException ex)
             {
-                command.CommandType = CommandType.Text;
-                command.Connection = connection;
-                command.CommandText = "INSERT INTO USUARIOS (EMAIL, CLAVE, NOMBRE, APELLIDO, DNI) VALUES (@correo, @clave, @nombre, @apellido, @dni)";
-
-                command.Parameters.AddWithValue("@correo", user.Correo);
-                command.Parameters.AddWithValue("@clave", user.Clave);
-                command.Parameters.AddWithValue("@nombre", user.Nombre);
-                command.Parameters.AddWithValue("@apellido", user.Apellido);
-                command.Parameters.AddWithValue("@dni", user.Dni);
-
-                connection.Open();
-                int count = command.ExecuteNonQuery();
-
-                return count > 0;
+                // Error específico de SQL Server
+                throw new Exception("Error al agregar usuario en la base de datos.", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Ocurrió un error inesperado al intentar agregar el usuario.", ex);
             }
         }
 
 
         public bool Eliminar(Usuario user)
         {
-            SqlConnection connection; // Puente.
-            SqlCommand command;      // Quien lleva la consulta.
-            SqlDataReader reader;   // Quien trae los datos.
-
-            using (connection = new SqlConnection(conexion))
+            try
             {
-                command = new SqlCommand();
-                command.CommandType = CommandType.Text;
-                command.Connection = connection;
-                command.CommandText = @"DELETE FROM USUARIOS WHERE DNI = @dni";
+                using (SqlConnection connection = new SqlConnection(conexion))
+                {
+                    SqlCommand command = new SqlCommand();
+                    command.CommandType = CommandType.Text;
+                    command.Connection = connection;
+                    command.CommandText = "DELETE FROM USUARIOS WHERE DNI = @dni";
 
-                // Parámetros
-                command.Parameters.AddWithValue("@dni", user.Dni);
+                    command.Parameters.AddWithValue("@dni", user.Dni);
 
-                connection.Open();
+                    connection.Open();
+                    int count = command.ExecuteNonQuery();
 
-                int count = command.ExecuteNonQuery();
-
-                return count > 0;
+                    return count > 0;
+                }
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Error al eliminar el usuario.", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error inesperado al intentar eliminar el usuario.", ex);
             }
         }
+
 
         public bool Modificar(Usuario user)
         {
-            SqlConnection connection; // Puente.
-            SqlCommand command;      // Quien lleva la consulta.
-            SqlDataReader reader;   // Quien trae los datos.
-
-            using (connection = new SqlConnection(conexion))
+            try
             {
-                command = new SqlCommand();
-                command.CommandType = CommandType.Text;
-                command.Connection = connection;
-                command.CommandText = @"UPDATE USUARIOS SET EMAIL = @correo, CLAVE = @clave, NOMBRE = @nombre, APELLIDO = @apellido WHERE DNI = @dni";
+                using (SqlConnection connection = new SqlConnection(conexion))
+                {
+                    SqlCommand command = new SqlCommand();
+                    command.CommandType = CommandType.Text;
+                    command.Connection = connection;
+                    command.CommandText = @"UPDATE USUARIOS SET EMAIL = @correo, CLAVE = @clave, NOMBRE = @nombre, APELLIDO = @apellido WHERE DNI = @dni";
 
-                command.Parameters.AddWithValue("@correo", user.Correo);
-                command.Parameters.AddWithValue("@clave", user.Clave);
-                command.Parameters.AddWithValue("@nombre", user.Nombre);
-                command.Parameters.AddWithValue("@apellido", user.Apellido);
-                command.Parameters.AddWithValue("@dni", user.Dni);
+                    command.Parameters.AddWithValue("@correo", user.Correo);
+                    command.Parameters.AddWithValue("@clave", user.Clave);
+                    command.Parameters.AddWithValue("@nombre", user.Nombre);
+                    command.Parameters.AddWithValue("@apellido", user.Apellido);
+                    command.Parameters.AddWithValue("@dni", user.Dni);
 
-                connection.Open();
+                    connection.Open();
+                    int count = command.ExecuteNonQuery();
 
-                int count = command.ExecuteNonQuery();
-
-                return count > 0;
+                    return count > 0;
+                }
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Error al modificar el usuario.", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error inesperado al modificar el usuario.", ex);
             }
         }
+
 
         public List<Usuario> ObtenerTodos()
         {
             List<Usuario> listaUsuarios = new List<Usuario>();
 
-            using (SqlConnection connection = new SqlConnection(conexion))
-            using (SqlCommand command = new SqlCommand("SELECT * FROM USUARIOS", connection))
+            try
             {
-                connection.Open();
-
-                using (SqlDataReader reader = command.ExecuteReader())
+                using (SqlConnection connection = new SqlConnection(conexion))
+                using (SqlCommand command = new SqlCommand("SELECT * FROM USUARIOS", connection))
                 {
-                    while (reader.Read())
+                    connection.Open();
+
+                    using (SqlDataReader reader = command.ExecuteReader())
                     {
-                        Usuario user = new Usuario();
+                        while (reader.Read())
+                        {
+                            Usuario user = new Usuario
+                            {
+                                Correo = reader["EMAIL"].ToString(),
+                                Clave = reader["CLAVE"].ToString(),
+                                Nombre = reader["NOMBRE"].ToString(),
+                                Apellido = reader["APELLIDO"].ToString(),
+                                Dni = Convert.ToInt32(reader["DNI"])
+                            };
 
-                        // Asumiendo que las columnas se llaman igual que las propiedades
-                        user.Correo = reader["EMAIL"].ToString();
-                        user.Clave = reader["CLAVE"].ToString();
-                        user.Nombre = reader["NOMBRE"].ToString();
-                        user.Apellido = reader["APELLIDO"].ToString();
-                        user.Dni = Convert.ToInt32(reader["DNI"]);
-
-                        listaUsuarios.Add(user);
+                            listaUsuarios.Add(user);
+                        }
                     }
                 }
-            }
 
-            return listaUsuarios;
+                return listaUsuarios;
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Error al obtener la lista de usuarios.", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error inesperado al obtener los usuarios.", ex);
+            }
         }
+
     }
 }
