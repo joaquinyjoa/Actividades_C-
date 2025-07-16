@@ -72,7 +72,12 @@ namespace Entidades.Final
         //    }
         //}
 
-
+        /// <summary>
+        /// Agrega un nuevo usuario a la base de datos.
+        /// Si ya existe un usuario con el mismo apellido, dispara el evento ApellidoUsuarioExistente y no lo agrega.
+        /// </summary>
+        /// <param name="user">El usuario a agregar.</param>
+        /// <returns>True si el usuario fue agregado correctamente; false si ya existía un apellido coincidente.</returns>
         public bool Agregar(Usuario user)
         {
             try
@@ -118,7 +123,11 @@ namespace Entidades.Final
             }
         }
 
-
+        /// <summary>
+        /// Elimina un usuario de la base de datos usando el DNI como identificador.
+        /// </summary>
+        /// <param name="user">El usuario a eliminar.</param>
+        /// <returns>True si se eliminó correctamente; false si no se encontró el usuario.</returns>
         public bool Eliminar(Usuario user)
         {
             try
@@ -148,7 +157,11 @@ namespace Entidades.Final
             }
         }
 
-
+        /// <summary>
+        /// Modifica los datos de un usuario en la base de datos usando el DNI como identificador.
+        /// </summary>
+        /// <param name="user">El usuario con los datos actualizados.</param>
+        /// <returns>True si se modificó correctamente; false si no se encontró el usuario.</returns>
         public bool Modificar(Usuario user)
         {
             try
@@ -182,7 +195,10 @@ namespace Entidades.Final
             }
         }
 
-
+        /// <summary>
+        /// Obtiene todos los usuarios registrados en la base de datos.
+        /// </summary>
+        /// <returns>Una lista de objetos Usuario recuperados de la base de datos.</returns>
         public List<Usuario> ObtenerTodos()
         {
             List<Usuario> listaUsuarios = new List<Usuario>();

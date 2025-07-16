@@ -5,7 +5,12 @@ namespace Entidades.Final
 {
     public static class Manejadora
     {
-
+        /// <summary>
+        /// Escribe información de una lista de usuarios en un archivo de texto (.log) en la carpeta Documentos del usuario.
+        /// Guarda la fecha actual, el apellido del primer usuario y los correos electrónicos de todos los usuarios.
+        /// </summary>
+        /// <param name="users">Lista de usuarios cuyos datos se van a registrar.</param>
+        /// <returns>True si el archivo fue escrito correctamente, false si ocurrió algún error.</returns>
         public static bool EscribirArchivo(List<Usuario> users)
         {
             try
@@ -50,6 +55,12 @@ namespace Entidades.Final
             }
         }
 
+        /// <summary>
+        /// Serializa una lista de usuarios al formato JSON y la guarda en un archivo en la ruta especificada.
+        /// </summary>
+        /// <param name="users">Lista de usuarios a serializar.</param>
+        /// <param name="path">Ruta del archivo donde se guardará el JSON.</param>
+        /// <returns>True si la serialización fue exitosa, false si ocurrió algún error.</returns>
         public static bool SerializarJSON(List<Usuario> users, string path)
         {
             try
@@ -75,6 +86,12 @@ namespace Entidades.Final
             }
         }
 
+        /// <summary>
+        /// Deserializa el contenido de un archivo JSON a una lista de objetos Usuario.
+        /// </summary>
+        /// <param name="path">Ruta del archivo JSON a deserializar.</param>
+        /// <param name="users">Lista de usuarios resultante, si la operación fue exitosa.</param>
+        /// <returns>True si la deserialización fue exitosa, false si ocurrió algún error.</returns>
         public static bool DeserializarJSON(string path, out List<Usuario> users)
         {
             users = new List<Usuario>();

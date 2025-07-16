@@ -24,6 +24,11 @@ namespace Entidades.Final
             this.pass = clave;
         }
 
+
+        /// <summary>
+        /// Intenta iniciar sesión verificando si el usuario con el email y clave especificados existe en la base de datos.
+        /// </summary>
+        /// <returns>Devuelve true si el usuario existe; false en caso contrario.</returns>
         public bool Loguear() 
         {
             string conexion = @"Data Source=DESKTOP-NBSF9OT\SQLEXPRESS;Initial Catalog=LOGIN_DB;Integrated Security=True;";
