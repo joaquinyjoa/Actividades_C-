@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCE98BA-BCD9-4B7C-BA2F-855DC6C36F76}|..\\Programa\\Programa.csproj|c:\\users\\joaquin\\desktop\\practica\\programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\Desktop\\practica\\Programa\\bin\\Debug\\net6.0\\Combatir.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\gerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:gerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|c:\\users\\joaquin\\desktop\\practica\\herramientas\\ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09B88E3-6E96-404A-BCDA-317C274253C1}|Herramientas.csproj|solutionrelative:ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\BusinessException.cs",
+              "RelativeDocumentMoniker": "BusinessException.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\BusinessException.cs",
+              "RelativeToolTip": "BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:27:54.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Combatir.json",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Programa\\bin\\Debug\\net6.0\\Combatir.json",
+              "RelativeDocumentMoniker": "..\\Programa\\bin\\Debug\\net6.0\\Combatir.json",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Programa\\bin\\Debug\\net6.0\\Combatir.json",
+              "RelativeToolTip": "..\\Programa\\bin\\Debug\\net6.0\\Combatir.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T05:42:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Programa\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Programa\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Programa\\Program.cs",
+              "RelativeToolTip": "..\\Programa\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:24:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonajeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\PersonajeDAO.cs",
+              "RelativeDocumentMoniker": "PersonajeDAO.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\PersonajeDAO.cs",
+              "RelativeToolTip": "PersonajeDAO.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:05:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:00:38.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Combate.cs",
+              "RelativeDocumentMoniker": "Combate.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Combate.cs",
+              "RelativeToolTip": "Combate.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAWwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:23:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gerrero.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Gerrero.cs",
+              "RelativeDocumentMoniker": "Gerrero.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Gerrero.cs",
+              "RelativeToolTip": "Gerrero.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:13:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\IJugador.cs",
+              "RelativeDocumentMoniker": "IJugador.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\IJugador.cs",
+              "RelativeToolTip": "IJugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:41:05.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAmwKAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:40:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aleatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Aleatorio.cs",
+              "RelativeDocumentMoniker": "Aleatorio.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\Aleatorio.cs",
+              "RelativeToolTip": "Aleatorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:30:14.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LadosMoneda.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\LadosMoneda.cs",
+              "RelativeDocumentMoniker": "LadosMoneda.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\practica\\Herramientas\\LadosMoneda.cs",
+              "RelativeToolTip": "LadosMoneda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:29:18.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
